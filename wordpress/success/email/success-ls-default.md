@@ -2,6 +2,8 @@
 
 Use the following credentials to access the admin panel:
 
+TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST 
+
 **Admin Panel**: [${globals.PROTOCOL}://${env.domain}/wp-admin/](${globals.PROTOCOL}://${env.domain}/wp-admin/)  
 **Login**: ${user.email}  
 **Password**: ${globals.WP_ADMIN_PASS}  
